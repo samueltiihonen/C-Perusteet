@@ -1,0 +1,2 @@
+C:\Users\samue\source\repos\Tehtävä 14\Tehtävä 14\obj\Debug\Tehtävä 14.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\Tehtävä 14\Tehtävä 14\obj\Debug\Tehtävä 14.csproj.CoreCompileInputs.cache
