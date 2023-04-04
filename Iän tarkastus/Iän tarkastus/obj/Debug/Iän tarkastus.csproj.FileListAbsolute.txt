@@ -1,0 +1,2 @@
+C:\Users\samuel.tiihonen\source\repos\Iän tarkastus\Iän tarkastus\obj\Debug\Iän tarkastus.csprojAssemblyReference.cache
+C:\Users\samuel.tiihonen\source\repos\Iän tarkastus\Iän tarkastus\obj\Debug\Iän tarkastus.csproj.CoreCompileInputs.cache

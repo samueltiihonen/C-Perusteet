@@ -1,0 +1,7 @@
+C:\Users\samuel.tiihonen\source\repos\28 Toisto Parillinen pariton\28 Toisto Parillinen pariton\bin\Debug\28 Toisto Parillinen pariton.exe.config
+C:\Users\samuel.tiihonen\source\repos\28 Toisto Parillinen pariton\28 Toisto Parillinen pariton\bin\Debug\28 Toisto Parillinen pariton.exe
+C:\Users\samuel.tiihonen\source\repos\28 Toisto Parillinen pariton\28 Toisto Parillinen pariton\bin\Debug\28 Toisto Parillinen pariton.pdb
+C:\Users\samuel.tiihonen\source\repos\28 Toisto Parillinen pariton\28 Toisto Parillinen pariton\obj\Debug\28 Toisto Parillinen pariton.csprojAssemblyReference.cache
+C:\Users\samuel.tiihonen\source\repos\28 Toisto Parillinen pariton\28 Toisto Parillinen pariton\obj\Debug\28 Toisto Parillinen pariton.csproj.CoreCompileInputs.cache
+C:\Users\samuel.tiihonen\source\repos\28 Toisto Parillinen pariton\28 Toisto Parillinen pariton\obj\Debug\28 Toisto Parillinen pariton.exe
+C:\Users\samuel.tiihonen\source\repos\28 Toisto Parillinen pariton\28 Toisto Parillinen pariton\obj\Debug\28 Toisto Parillinen pariton.pdb

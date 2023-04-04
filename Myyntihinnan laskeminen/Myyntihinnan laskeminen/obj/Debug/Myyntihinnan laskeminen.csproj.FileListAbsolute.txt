@@ -1,0 +1,7 @@
+C:\Users\samuel.tiihonen\source\repos\Myyntihinnan laskeminen\Myyntihinnan laskeminen\bin\Debug\Myyntihinnan laskeminen.exe.config
+C:\Users\samuel.tiihonen\source\repos\Myyntihinnan laskeminen\Myyntihinnan laskeminen\bin\Debug\Myyntihinnan laskeminen.exe
+C:\Users\samuel.tiihonen\source\repos\Myyntihinnan laskeminen\Myyntihinnan laskeminen\bin\Debug\Myyntihinnan laskeminen.pdb
+C:\Users\samuel.tiihonen\source\repos\Myyntihinnan laskeminen\Myyntihinnan laskeminen\obj\Debug\Myyntihinnan laskeminen.csprojAssemblyReference.cache
+C:\Users\samuel.tiihonen\source\repos\Myyntihinnan laskeminen\Myyntihinnan laskeminen\obj\Debug\Myyntihinnan laskeminen.csproj.CoreCompileInputs.cache
+C:\Users\samuel.tiihonen\source\repos\Myyntihinnan laskeminen\Myyntihinnan laskeminen\obj\Debug\Myyntihinnan laskeminen.exe
+C:\Users\samuel.tiihonen\source\repos\Myyntihinnan laskeminen\Myyntihinnan laskeminen\obj\Debug\Myyntihinnan laskeminen.pdb

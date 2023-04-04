@@ -1,0 +1,2 @@
+C:\Users\samuel.tiihonen\source\repos\30 Toisto kertymä\30 Toisto kertymä\obj\Debug\30 Toisto kertymä.csprojAssemblyReference.cache
+C:\Users\samuel.tiihonen\source\repos\30 Toisto kertymä\30 Toisto kertymä\obj\Debug\30 Toisto kertymä.csproj.CoreCompileInputs.cache
