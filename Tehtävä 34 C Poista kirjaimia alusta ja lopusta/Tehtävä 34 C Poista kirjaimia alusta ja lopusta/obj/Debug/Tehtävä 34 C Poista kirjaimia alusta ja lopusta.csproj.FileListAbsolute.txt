@@ -1,0 +1,7 @@
+C:\Users\samuel.tiihonen\source\repos\Tehtävä 34 C Poista kirjaimia alusta ja lopusta\Tehtävä 34 C Poista kirjaimia alusta ja lopusta\bin\Debug\Tehtävä 34 C Poista kirjaimia alusta ja lopusta.exe.config
+C:\Users\samuel.tiihonen\source\repos\Tehtävä 34 C Poista kirjaimia alusta ja lopusta\Tehtävä 34 C Poista kirjaimia alusta ja lopusta\bin\Debug\Tehtävä 34 C Poista kirjaimia alusta ja lopusta.exe
+C:\Users\samuel.tiihonen\source\repos\Tehtävä 34 C Poista kirjaimia alusta ja lopusta\Tehtävä 34 C Poista kirjaimia alusta ja lopusta\bin\Debug\Tehtävä 34 C Poista kirjaimia alusta ja lopusta.pdb
+C:\Users\samuel.tiihonen\source\repos\Tehtävä 34 C Poista kirjaimia alusta ja lopusta\Tehtävä 34 C Poista kirjaimia alusta ja lopusta\obj\Debug\Tehtävä 34 C Poista kirjaimia alusta ja lopusta.csproj.AssemblyReference.cache
+C:\Users\samuel.tiihonen\source\repos\Tehtävä 34 C Poista kirjaimia alusta ja lopusta\Tehtävä 34 C Poista kirjaimia alusta ja lopusta\obj\Debug\Tehtävä 34 C Poista kirjaimia alusta ja lopusta.csproj.CoreCompileInputs.cache
+C:\Users\samuel.tiihonen\source\repos\Tehtävä 34 C Poista kirjaimia alusta ja lopusta\Tehtävä 34 C Poista kirjaimia alusta ja lopusta\obj\Debug\Tehtävä 34 C Poista kirjaimia alusta ja lopusta.exe
+C:\Users\samuel.tiihonen\source\repos\Tehtävä 34 C Poista kirjaimia alusta ja lopusta\Tehtävä 34 C Poista kirjaimia alusta ja lopusta\obj\Debug\Tehtävä 34 C Poista kirjaimia alusta ja lopusta.pdb
