@@ -1,0 +1,7 @@
+C:\Users\samuel.tiihonen\source\repos\34B C Vokaalit taulukkoon\34B C Vokaalit taulukkoon\bin\Debug\34B C Vokaalit taulukkoon.exe.config
+C:\Users\samuel.tiihonen\source\repos\34B C Vokaalit taulukkoon\34B C Vokaalit taulukkoon\bin\Debug\34B C Vokaalit taulukkoon.exe
+C:\Users\samuel.tiihonen\source\repos\34B C Vokaalit taulukkoon\34B C Vokaalit taulukkoon\bin\Debug\34B C Vokaalit taulukkoon.pdb
+C:\Users\samuel.tiihonen\source\repos\34B C Vokaalit taulukkoon\34B C Vokaalit taulukkoon\obj\Debug\34B C Vokaalit taulukkoon.csproj.AssemblyReference.cache
+C:\Users\samuel.tiihonen\source\repos\34B C Vokaalit taulukkoon\34B C Vokaalit taulukkoon\obj\Debug\34B C Vokaalit taulukkoon.csproj.CoreCompileInputs.cache
+C:\Users\samuel.tiihonen\source\repos\34B C Vokaalit taulukkoon\34B C Vokaalit taulukkoon\obj\Debug\34B C Vokaalit taulukkoon.exe
+C:\Users\samuel.tiihonen\source\repos\34B C Vokaalit taulukkoon\34B C Vokaalit taulukkoon\obj\Debug\34B C Vokaalit taulukkoon.pdb
