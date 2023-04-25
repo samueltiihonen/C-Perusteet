@@ -1,0 +1,7 @@
+C:\Users\samuel.tiihonen\source\repos\Funktiot Bensankulutus 2\Funktiot Bensankulutus 2\bin\Debug\Funktiot Bensankulutus 2.exe.config
+C:\Users\samuel.tiihonen\source\repos\Funktiot Bensankulutus 2\Funktiot Bensankulutus 2\bin\Debug\Funktiot Bensankulutus 2.exe
+C:\Users\samuel.tiihonen\source\repos\Funktiot Bensankulutus 2\Funktiot Bensankulutus 2\bin\Debug\Funktiot Bensankulutus 2.pdb
+C:\Users\samuel.tiihonen\source\repos\Funktiot Bensankulutus 2\Funktiot Bensankulutus 2\obj\Debug\Funktiot Bensankulutus 2.csprojAssemblyReference.cache
+C:\Users\samuel.tiihonen\source\repos\Funktiot Bensankulutus 2\Funktiot Bensankulutus 2\obj\Debug\Funktiot Bensankulutus 2.csproj.CoreCompileInputs.cache
+C:\Users\samuel.tiihonen\source\repos\Funktiot Bensankulutus 2\Funktiot Bensankulutus 2\obj\Debug\Funktiot Bensankulutus 2.exe
+C:\Users\samuel.tiihonen\source\repos\Funktiot Bensankulutus 2\Funktiot Bensankulutus 2\obj\Debug\Funktiot Bensankulutus 2.pdb
