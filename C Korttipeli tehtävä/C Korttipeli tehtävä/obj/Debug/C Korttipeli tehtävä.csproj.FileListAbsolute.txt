@@ -1,0 +1,7 @@
+C:\Users\samuel.tiihonen\source\repos\C Korttipeli tehtävä\C Korttipeli tehtävä\bin\Debug\C Korttipeli tehtävä.exe.config
+C:\Users\samuel.tiihonen\source\repos\C Korttipeli tehtävä\C Korttipeli tehtävä\bin\Debug\C Korttipeli tehtävä.exe
+C:\Users\samuel.tiihonen\source\repos\C Korttipeli tehtävä\C Korttipeli tehtävä\bin\Debug\C Korttipeli tehtävä.pdb
+C:\Users\samuel.tiihonen\source\repos\C Korttipeli tehtävä\C Korttipeli tehtävä\obj\Debug\C Korttipeli tehtävä.csproj.AssemblyReference.cache
+C:\Users\samuel.tiihonen\source\repos\C Korttipeli tehtävä\C Korttipeli tehtävä\obj\Debug\C Korttipeli tehtävä.csproj.CoreCompileInputs.cache
+C:\Users\samuel.tiihonen\source\repos\C Korttipeli tehtävä\C Korttipeli tehtävä\obj\Debug\C Korttipeli tehtävä.exe
+C:\Users\samuel.tiihonen\source\repos\C Korttipeli tehtävä\C Korttipeli tehtävä\obj\Debug\C Korttipeli tehtävä.pdb
