@@ -1,0 +1,7 @@
+C:\Users\samuel.tiihonen\source\repos\Tehtävä 33 merkkien tulostus\Tehtävä 33 merkkien tulostus\obj\Debug\Tehtävä 33 merkkien tulostus.csproj.AssemblyReference.cache
+C:\Users\samuel.tiihonen\source\repos\Tehtävä 33 merkkien tulostus\Tehtävä 33 merkkien tulostus\obj\Debug\Tehtävä 33 merkkien tulostus.csproj.CoreCompileInputs.cache
+C:\Users\samuel.tiihonen\source\repos\Tehtävä 33 merkkien tulostus\Tehtävä 33 merkkien tulostus\bin\Debug\Tehtävä 33 merkkien tulostus.exe.config
+C:\Users\samuel.tiihonen\source\repos\Tehtävä 33 merkkien tulostus\Tehtävä 33 merkkien tulostus\bin\Debug\Tehtävä 33 merkkien tulostus.exe
+C:\Users\samuel.tiihonen\source\repos\Tehtävä 33 merkkien tulostus\Tehtävä 33 merkkien tulostus\bin\Debug\Tehtävä 33 merkkien tulostus.pdb
+C:\Users\samuel.tiihonen\source\repos\Tehtävä 33 merkkien tulostus\Tehtävä 33 merkkien tulostus\obj\Debug\Tehtävä 33 merkkien tulostus.exe
+C:\Users\samuel.tiihonen\source\repos\Tehtävä 33 merkkien tulostus\Tehtävä 33 merkkien tulostus\obj\Debug\Tehtävä 33 merkkien tulostus.pdb

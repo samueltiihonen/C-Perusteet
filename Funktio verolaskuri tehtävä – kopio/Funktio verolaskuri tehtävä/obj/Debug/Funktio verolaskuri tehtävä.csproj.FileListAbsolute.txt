@@ -1,0 +1,2 @@
+C:\Users\samuel.tiihonen\source\repos\Funktio verolaskuri tehtävä\Funktio verolaskuri tehtävä\obj\Debug\Funktio verolaskuri tehtävä.csprojAssemblyReference.cache
+C:\Users\samuel.tiihonen\source\repos\Funktio verolaskuri tehtävä\Funktio verolaskuri tehtävä\obj\Debug\Funktio verolaskuri tehtävä.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\samuel.tiihonen\source\repos\27 Tähtien tulostus\27 Tähtien tulostus\bin\Debug\27 Tähtien tulostus.exe.config
+C:\Users\samuel.tiihonen\source\repos\27 Tähtien tulostus\27 Tähtien tulostus\bin\Debug\27 Tähtien tulostus.exe
+C:\Users\samuel.tiihonen\source\repos\27 Tähtien tulostus\27 Tähtien tulostus\bin\Debug\27 Tähtien tulostus.pdb
+C:\Users\samuel.tiihonen\source\repos\27 Tähtien tulostus\27 Tähtien tulostus\obj\Debug\27 Tähtien tulostus.csprojAssemblyReference.cache
+C:\Users\samuel.tiihonen\source\repos\27 Tähtien tulostus\27 Tähtien tulostus\obj\Debug\27 Tähtien tulostus.csproj.CoreCompileInputs.cache
+C:\Users\samuel.tiihonen\source\repos\27 Tähtien tulostus\27 Tähtien tulostus\obj\Debug\27 Tähtien tulostus.exe
+C:\Users\samuel.tiihonen\source\repos\27 Tähtien tulostus\27 Tähtien tulostus\obj\Debug\27 Tähtien tulostus.pdb

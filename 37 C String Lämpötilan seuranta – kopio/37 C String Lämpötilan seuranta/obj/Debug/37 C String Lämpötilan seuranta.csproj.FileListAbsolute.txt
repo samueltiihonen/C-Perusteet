@@ -1,0 +1,7 @@
+C:\Users\samuel.tiihonen\source\repos\37 C String Lämpötilan seuranta\37 C String Lämpötilan seuranta\bin\Debug\37 C String Lämpötilan seuranta.exe.config
+C:\Users\samuel.tiihonen\source\repos\37 C String Lämpötilan seuranta\37 C String Lämpötilan seuranta\bin\Debug\37 C String Lämpötilan seuranta.exe
+C:\Users\samuel.tiihonen\source\repos\37 C String Lämpötilan seuranta\37 C String Lämpötilan seuranta\bin\Debug\37 C String Lämpötilan seuranta.pdb
+C:\Users\samuel.tiihonen\source\repos\37 C String Lämpötilan seuranta\37 C String Lämpötilan seuranta\obj\Debug\37 C String Lämpötilan seuranta.csproj.AssemblyReference.cache
+C:\Users\samuel.tiihonen\source\repos\37 C String Lämpötilan seuranta\37 C String Lämpötilan seuranta\obj\Debug\37 C String Lämpötilan seuranta.csproj.CoreCompileInputs.cache
+C:\Users\samuel.tiihonen\source\repos\37 C String Lämpötilan seuranta\37 C String Lämpötilan seuranta\obj\Debug\37 C String Lämpötilan seuranta.exe
+C:\Users\samuel.tiihonen\source\repos\37 C String Lämpötilan seuranta\37 C String Lämpötilan seuranta\obj\Debug\37 C String Lämpötilan seuranta.pdb

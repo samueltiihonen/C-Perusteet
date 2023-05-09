@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C Korttipeli tehtävä", "C Korttipeli tehtävä\C Korttipeli tehtävä.csproj", "{B455F0F3-3D7D-49B7-99A9-16540F059455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B455F0F3-3D7D-49B7-99A9-16540F059455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B455F0F3-3D7D-49B7-99A9-16540F059455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B455F0F3-3D7D-49B7-99A9-16540F059455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B455F0F3-3D7D-49B7-99A9-16540F059455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2987CD6B-C9D4-45D5-8694-3D13AF2793FA}
+	EndGlobalSection
+EndGlobal
