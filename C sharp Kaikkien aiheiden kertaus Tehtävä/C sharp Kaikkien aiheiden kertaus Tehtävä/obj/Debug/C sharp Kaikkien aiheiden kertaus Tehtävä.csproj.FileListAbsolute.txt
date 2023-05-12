@@ -1,0 +1,7 @@
+C:\Users\samuel.tiihonen\source\repos\C sharp Kaikkien aiheiden kertaus Tehtävä\C sharp Kaikkien aiheiden kertaus Tehtävä\bin\Debug\C sharp Kaikkien aiheiden kertaus Tehtävä.exe.config
+C:\Users\samuel.tiihonen\source\repos\C sharp Kaikkien aiheiden kertaus Tehtävä\C sharp Kaikkien aiheiden kertaus Tehtävä\bin\Debug\C sharp Kaikkien aiheiden kertaus Tehtävä.exe
+C:\Users\samuel.tiihonen\source\repos\C sharp Kaikkien aiheiden kertaus Tehtävä\C sharp Kaikkien aiheiden kertaus Tehtävä\bin\Debug\C sharp Kaikkien aiheiden kertaus Tehtävä.pdb
+C:\Users\samuel.tiihonen\source\repos\C sharp Kaikkien aiheiden kertaus Tehtävä\C sharp Kaikkien aiheiden kertaus Tehtävä\obj\Debug\C sharp Kaikkien aiheiden kertaus Tehtävä.csproj.AssemblyReference.cache
+C:\Users\samuel.tiihonen\source\repos\C sharp Kaikkien aiheiden kertaus Tehtävä\C sharp Kaikkien aiheiden kertaus Tehtävä\obj\Debug\C sharp Kaikkien aiheiden kertaus Tehtävä.csproj.CoreCompileInputs.cache
+C:\Users\samuel.tiihonen\source\repos\C sharp Kaikkien aiheiden kertaus Tehtävä\C sharp Kaikkien aiheiden kertaus Tehtävä\obj\Debug\C sharp Kaikkien aiheiden kertaus Tehtävä.exe
+C:\Users\samuel.tiihonen\source\repos\C sharp Kaikkien aiheiden kertaus Tehtävä\C sharp Kaikkien aiheiden kertaus Tehtävä\obj\Debug\C sharp Kaikkien aiheiden kertaus Tehtävä.pdb
