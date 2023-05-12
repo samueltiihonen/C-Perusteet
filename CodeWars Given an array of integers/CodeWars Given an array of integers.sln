@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars Given an array of integers", "CodeWars Given an array of integers\CodeWars Given an array of integers.csproj", "{572BB579-0AF7-453E-A5CE-352647CB2FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{572BB579-0AF7-453E-A5CE-352647CB2FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572BB579-0AF7-453E-A5CE-352647CB2FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572BB579-0AF7-453E-A5CE-352647CB2FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572BB579-0AF7-453E-A5CE-352647CB2FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C42B51DE-A248-4FA3-9467-99910C349776}
+	EndGlobalSection
+EndGlobal
