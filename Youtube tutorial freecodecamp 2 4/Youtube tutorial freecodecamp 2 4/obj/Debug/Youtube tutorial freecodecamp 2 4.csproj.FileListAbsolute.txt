@@ -1,0 +1,2 @@
+C:\Users\samue\source\repos\Youtube tutorial freecodecamp 2 4\Youtube tutorial freecodecamp 2 4\obj\Debug\Youtube tutorial freecodecamp 2 4.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\Youtube tutorial freecodecamp 2 4\Youtube tutorial freecodecamp 2 4\obj\Debug\Youtube tutorial freecodecamp 2 4.csproj.CoreCompileInputs.cache

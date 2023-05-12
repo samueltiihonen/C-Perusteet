@@ -1,0 +1,7 @@
+C:\Users\samue\source\repos\3 C Perus Ikä-tehtävä\3 C Perus Ikä-tehtävä\bin\Debug\3 C Perus Ikä-tehtävä.exe.config
+C:\Users\samue\source\repos\3 C Perus Ikä-tehtävä\3 C Perus Ikä-tehtävä\bin\Debug\3 C Perus Ikä-tehtävä.exe
+C:\Users\samue\source\repos\3 C Perus Ikä-tehtävä\3 C Perus Ikä-tehtävä\bin\Debug\3 C Perus Ikä-tehtävä.pdb
+C:\Users\samue\source\repos\3 C Perus Ikä-tehtävä\3 C Perus Ikä-tehtävä\obj\Debug\3 C Perus Ikä-tehtävä.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\3 C Perus Ikä-tehtävä\3 C Perus Ikä-tehtävä\obj\Debug\3 C Perus Ikä-tehtävä.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\3 C Perus Ikä-tehtävä\3 C Perus Ikä-tehtävä\obj\Debug\3 C Perus Ikä-tehtävä.exe
+C:\Users\samue\source\repos\3 C Perus Ikä-tehtävä\3 C Perus Ikä-tehtävä\obj\Debug\3 C Perus Ikä-tehtävä.pdb
