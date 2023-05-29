@@ -24,10 +24,10 @@ namespace _23._5_Koe
 
             Console.ReadLine();
 
-            
-               
 
-            
+
+
+
             // Käyttäjä tunnus koulunverkkoon.
 
 
@@ -45,10 +45,10 @@ namespace _23._5_Koe
                 Console.ReadLine();
             }
 
-            
 
-                
-            
+
+
+
 
 
             // Tuote laskuri
@@ -66,23 +66,39 @@ namespace _23._5_Koe
                     break;
                 }
 
-                Console.WriteLine("Syötä tuotteen hinta:");
-                decimal hinta = decimal.Parse(Console.ReadLine());
+                Random rng = new Random(4);
 
-                Product tuote = new Product(nimi, hinta);
-                tuotteet.Add(tuote);
+                Console.Write("Tuotteen hinta: ");
+                decimal price = Convert.ToDecimal(Console.ReadLine());
+
+                Product product = 
+               
+                {
+                    Console.WriteLine("Tuotteet ja niiden tiedot:");
+                    foreach (Product Product in products)
+                    {
+                        decimal discountedPrice = product.CalculateDiscountedPrice(20.0m);
+                        Console.WriteLine($"Nimi: {product.Name}, Hinta: {product.Price}, Alennettu hinta (20%): {discountedPrice}");
+                    }
+                }
+
+
+
+
             }
 
-            Console.WriteLine("Tuotteet ja niiden tiedot:");
-            foreach (Product tuote in tuotteet)
+
+
             {
-                Console.WriteLine("Nimi: " + tuote.Name);
-                Console.WriteLine("Hinta: " + tuote.Price.ToString("C")); 
 
-                decimal alennettuHinta = tuote.CalculateDiscountedPrice(20.00M); 
-                Console.WriteLine("Alennettu hinta (20% alennus): " + alennettuHinta.ToString("C"));
 
-                Console.WriteLine();
+
+
+
+
+
+
+
 
 
 
@@ -131,26 +147,26 @@ namespace _23._5_Koe
 
 
                 Console.ReadKey();
-        
-        
-        }
 
 
-        static bool OnHyvaksyttavassaMuodossa(string puhelinnumero)
-        {
-
-            if (puhelinnumero.Length != 13)
-            {
-                Console.WriteLine("Puhelinnumerossa pitää olla 13 merkkiä");
-                return false;
             }
 
-            if (puhelinnumero.StartsWith("+358"))
+
+            static bool OnHyvaksyttavassaMuodossa:(string puhelinnumero)
             {
-                Console.WriteLine("Puhelinnumeron pitää alkaa merkeillä \"+358\".");
-                return false;
+
+                if (puhelinnumero.Length != 13)
+                {
+                    Console.WriteLine("Puhelinnumerossa pitää olla 13 merkkiä");
+                    return false;
+                }
+
+                if (puhelinnumero.StartsWith("+358"))
+                {
+                    Console.WriteLine("Puhelinnumeron pitää alkaa merkeillä \"+358\".");
+                    return false;
+                }
             }
-        }
 
 
             // Opiskelin käyttäjätunnus koulun verkkoon
@@ -164,4 +180,5 @@ namespace _23._5_Koe
 
 
         }
-}
+    }
+

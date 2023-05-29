@@ -12,8 +12,36 @@ namespace _23._5_Koe
         public string Name { get; set; }
         public string Price { get; set; }
 
-        
-    }    
+        // Constructor(Id, Name, Price, Parametrinen Constructor.
+        public Product(int id, string name, string price)
+        {
+
+            Id = id;
+            Name = name;
+             Price = price;
+        }
+
+
+
+
+
+        public decimal Discount { get; set; }
+
+        public decimal CalculateDiscountedPrice(decimal discountPercentage)
+        {
+            decimal discountAmount = Price * (Discount / 100);
+
+            decimal discountedPrice = Price - discountAmount;
+
+            return discountedPrice;
+
+        }
+
+
+
+
+    }
+}   
        
 
 
