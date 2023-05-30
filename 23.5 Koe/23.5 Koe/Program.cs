@@ -56,6 +56,9 @@ namespace _23._5_Koe
 
             List<Product> products = new List<Product>();
 
+            int id = 0;
+
+
             Console.WriteLine("Syötä tuotteiden tiedot (lopeta tyhjällä rivillä):");
             while (true)
             {
@@ -66,22 +69,21 @@ namespace _23._5_Koe
                     break;
                 }
 
-                Random rng = new Random(4);
-
                 Console.Write("Tuotteen hinta: ");
                 decimal price = Convert.ToDecimal(Console.ReadLine());
 
-                Product product = price = new discountedPrice(20);
-                Console.WriteLine("Price: {0}", price.decimalprice());
+                id++;
+                Product product = new Product(id, nimi, price);
 
+                products.Add(product);
+
+                Console.WriteLine("Tuotteet ja niiden tiedot:");
+                foreach (Product p in products)
                 {
-                    Console.WriteLine("Tuotteet ja niiden tiedot:");
-                    foreach (Product Product in products)
-                    {
-                        decimal discountedPrice = product.CalculateDiscountedPrice(20.0m);
-                        Console.WriteLine($"Nimi: {product.Name}, Hinta: {product.Price}, Alennettu hinta (20%): {discountedPrice}");
-                    }
+                    decimal discountedPrice = p.CalculateDiscountedPrice(20.0m);
+                    Console.WriteLine($"Nimi: {p.Name}, Hinta: {p.Price}, Alennettu hinta (20%): {discountedPrice}");
                 }
+
 
 
 
@@ -226,7 +228,7 @@ namespace _23._5_Koe
 
 
 
-           
+
 
 
 
