@@ -54,7 +54,7 @@ namespace _23._5_Koe
             // Tuote laskuri
 
 
-            List<Product> tuotteet = new List<Product>();
+            List<Product> products = new List<Product>();
 
             Console.WriteLine("Syötä tuotteiden tiedot (lopeta tyhjällä rivillä):");
             while (true)
@@ -71,8 +71,9 @@ namespace _23._5_Koe
                 Console.Write("Tuotteen hinta: ");
                 decimal price = Convert.ToDecimal(Console.ReadLine());
 
-                Product product = 
-               
+                Product product = price = new discountedPrice(20);
+                Console.WriteLine("Price: {0}", price.decimalprice());
+
                 {
                     Console.WriteLine("Tuotteet ja niiden tiedot:");
                     foreach (Product Product in products)
@@ -152,33 +153,100 @@ namespace _23._5_Koe
             }
 
 
-            static bool OnHyvaksyttavassaMuodossa:(string puhelinnumero)
+
+
+
+        } // Main
+
+        static bool OnHyvaksyttavassaMuodossa(string puhelinnumero)
+        {
+
+            if (puhelinnumero.Length != 13)
             {
-
-                if (puhelinnumero.Length != 13)
-                {
-                    Console.WriteLine("Puhelinnumerossa pitää olla 13 merkkiä");
-                    return false;
-                }
-
-                if (puhelinnumero.StartsWith("+358"))
-                {
-                    Console.WriteLine("Puhelinnumeron pitää alkaa merkeillä \"+358\".");
-                    return false;
-                }
+                Console.WriteLine("Puhelinnumerossa pitää olla 13 merkkiä");
+                return false;
             }
 
+            if (puhelinnumero.StartsWith("+358"))
+            {
+                Console.WriteLine("Puhelinnumeron pitää alkaa merkeillä \"+358\".");
+                return true;
 
-            // Opiskelin käyttäjätunnus koulun verkkoon
+            }
 
-            static string GeneroiOpiskelijatunnus(string etunimi, string sukunimi);
+            return false;
+        }
 
-            string etunimenLyhennys = etunimi.Length => 3 ? etunimi.Substring(0, 3) : etunimi;
-            string sukunimenLyhennys = sukunimi.Length => 5 ? sukunimi.Substring(0, 5) : sukunimi;
 
-            return sukunimenLyhennys + etunimenLyhennys;
+        // Opiskelin käyttäjätunnus koulun verkkoon
+
+        static string GeneroiOpiskelijatunnus(string etunimi, string sukunimi)
+        {
+
+
+            string kayttajatunnus = "";
+
+            if (sukunimi.Length >= 5)
+            {
+                kayttajatunnus += sukunimi.Substring(0, 5);
+            }
+            else
+            {
+                kayttajatunnus += sukunimi;
+            }
+
+            if (etunimi.Length >= 3)
+            {
+                kayttajatunnus += etunimi.Substring(0, 3);
+            }
+            else
+            {
+                kayttajatunnus += etunimi;
+            }
+
+            return kayttajatunnus;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+
+
+
+
+
+
+
+
+
+
 
 
         }
+
+
+
+
+
+
+
     }
 
+}

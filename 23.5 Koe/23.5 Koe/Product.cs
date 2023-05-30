@@ -10,10 +10,10 @@ namespace _23._5_Koe
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string Price { get; set; }
+        public decimal Price { get; set; }
 
         // Constructor(Id, Name, Price, Parametrinen Constructor.
-        public Product(int id, string name, string price)
+        public Product(int id, string name, decimal price)
         {
 
             Id = id;

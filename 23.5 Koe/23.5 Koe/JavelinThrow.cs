@@ -13,15 +13,15 @@ namespace _23._5_Koe
         public int Meters { get; set; }
         public int Centimeters { get; set; }
 
-        public JavelinThrow(int Id, string AthleteName, int Meters, int Centimeters)
+        public JavelinThrow(int id, string athleteName, int meters, int centimeters)
         {
-            Id = Id;
+            Id = id;
 
-            AthleteName = AthleteName;
+            AthleteName = athleteName;
 
-            Meters = Meters;
+            Meters = meters;
 
-            Centimeters = Centimeters;
+            Centimeters = centimeters;
 
 
 
